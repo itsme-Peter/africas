@@ -1,1 +1,3 @@
 # africas
+
+AfricaISTalking Hackathon
